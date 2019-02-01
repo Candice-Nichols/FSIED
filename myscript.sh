@@ -12,3 +12,5 @@ $xyzrfile $noions > $xyzr
 
 $v -i $xyzr -p 1.5 -g 0.5
 
+rm $noions
+rm $xyzr
