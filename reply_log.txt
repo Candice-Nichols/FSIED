@@ -1,0 +1,115 @@
+Opening pdb5m3l.pdb...
+#0, chain A: extracellular globin-4
+
+#0, chain B: extracellular globin-2
+
+#0, chain C: extracellular globin-3
+
+#0, chain D: hemoglobin chain D1
+
+#0, chain E: extracellular globin-4
+
+#0, chain F: extracellular globin-2
+
+#0, chain G: extracellular globin-3
+
+#0, chain H: hemoglobin chain D1
+
+#0, chain I: extracellular globin-4
+
+#0, chain J: extracellular globin-2
+
+#0, chain K: extracellular globin-3
+
+#0, chain L: hemoglobin chain D1
+
+#0, chain M: hemoglobin linker chain L1
+
+#0, chain N: extracellular hemoglobin linker L2 subunit
+
+#0, chain O: extracellular hemoglobin linker L3 subunit
+
+Processing pdb5m3l.pdb
+Opening pdb5m3l.pdb...
+#1, chain A: extracellular globin-4
+
+#1, chain B: extracellular globin-2
+
+#1, chain C: extracellular globin-3
+
+#1, chain D: hemoglobin chain D1
+
+#1, chain E: extracellular globin-4
+
+#1, chain F: extracellular globin-2
+
+#1, chain G: extracellular globin-3
+
+#1, chain H: hemoglobin chain D1
+
+#1, chain I: extracellular globin-4
+
+#1, chain J: extracellular globin-2
+
+#1, chain K: extracellular globin-3
+
+#1, chain L: hemoglobin chain D1
+
+#1, chain M: hemoglobin linker chain L1
+
+#1, chain N: extracellular hemoglobin linker L2 subunit
+
+#1, chain O: extracellular hemoglobin linker L3 subunit
+
+pdb5m3l.pdb opened
+/usr/local/UCSF/Chimera64-1.12/bin/mscalc 1.400000 2.000000 1
+
+MSMSLIB 1.3 started on coyote
+Copyright M.F. Sanner (March 2000)
+Compilation flags  
+ERROR: add_rs_component: Too many RS components
+
+/usr/local/UCSF/Chimera64-1.12/bin/mscalc 1.400000 2.000000 0
+
+MSMSLIB 1.3 started on coyote
+Copyright M.F. Sanner (March 2000)
+Compilation flags  
+WARNING: class_arete2: warning hole in a reentrant face 4720
+WARNING: class_arete2: warning hole in a reentrant face 10823
+WARNING: class_arete2: warning hole in a reentrant face 20833
+WARNING: class_arete2: warning hole in a reentrant face 26193
+WARNING: class_arete2: warning hole in a reentrant face 28857
+WARNING: class_arete2: warning hole in a reentrant face 34279
+WARNING: class_arete2: warning hole in a reentrant face 49465
+WARNING: class_arete2: warning hole in a reentrant face 53621
+
+
+Surface pdb5m3l.pdb, category main, probe radius 1.4, vertex density 2
+  1 connected surface components
+  Total solvent excluded surface area = 119925
+  Total solvent accessible surface area = 115656
+
+Surface pdb5m3l.pdb, category main has 1 components
+/usr/local/UCSF/Chimera64-1.12/bin/mscalc 1.400000 2.000000 1
+
+MSMSLIB 1.3 started on coyote
+Copyright M.F. Sanner (March 2000)
+Compilation flags  
+
+
+Surface pdb5m3l.pdb, category ligand, probe radius 1.4, vertex density 2
+  7 connected surface components
+  Total solvent excluded surface area = 5960.15
+    component areas = 997.208, 997.205, 992.953, 992.425, 990.605, 497.116, 492.639
+  Total solvent accessible surface area = 9635.19
+    component areas = 1596.09, 1619.7, 1580.78, 1584.47, 1632.95, 809.669, 811.546
+
+Surface pdb5m3l.pdb, category ligand has 7 components
+MSMS main surface of pdb5m3l.pdb:  volume = 3.1184e+05
+
+MSMS ligand surface of pdb5m3l.pdb:  volume = 6068.1
+
+MSMS main surface of pdb5m3l.pdb:  area = 1.1716e+05
+
+MSMS ligand surface of pdb5m3l.pdb:  area = 5832.2
+
