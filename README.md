@@ -21,12 +21,19 @@ cd ..
 
 ### Calculate volume of test file
 ```
-./myscript.sh pdb5m3l.pdb
+./myscript.sh 6he8.pdb
 ```
 
 
 ## Calculate volume of atomic structure using chimera
-The script is scripted for the sample file pdb5m3l.pdb- to calculate a different file, change path to fn in chimera_volume.py
+The script is scripted for the sample file 6he8.pdb- to calculate a different file, change path to fn in chimera_volume.py
 ```
-chimera --nogui --script chimera_volume.py > reply_log.txt
+chimera --nogui --script chimera_volume.py > volume_reply_log.txt
 ```
+
+## Calculate volume of electron density using chimera
+The script is scripted for the sample file emd_0212.map- to calculate a different file, change path to fn in chimera_volume.py
+```
+chimera --nogui --script chimera_EMvolume.py > density_volume_reply_log.txt
+```
+
