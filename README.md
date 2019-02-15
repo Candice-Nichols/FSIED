@@ -21,7 +21,7 @@ cd ..
 
 ### Calculate volume of test file
 ```
-./myscript.sh 6he8.pdb
+./3vvolume.sh 6he8.pdb
 ```
 
 
