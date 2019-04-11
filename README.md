@@ -19,10 +19,11 @@ cd ..
 cd ..
 ```
 
-### Calculate volume of test file
+### Calculate volume of pdb files
 ```
-./3vvolume.sh 6he8.pdb
+./main.sh
 ```
+the program will prompt user to enter pdb ids
 
 
 ## Calculate volume of atomic structure using chimera
