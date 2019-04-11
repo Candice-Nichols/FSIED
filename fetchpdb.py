@@ -2,7 +2,6 @@ from IPython.display import HTML
 from pypdb import *
 import pprint
 
-
 pdbids=input("Please enter pdb ID, separated by comma: ")
 pdbids=pdbids.split(",")
 for id in pdbids:
@@ -11,3 +10,5 @@ for id in pdbids:
 	f = open(filename, "w")
 	f.write(pdb_file)
 print(pdbids)
+
+
