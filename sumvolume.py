@@ -2,8 +2,10 @@ import subprocess
 import os
 handle = open("inputpdb.txt","r")
 
+print("start computing volume sum")
 volume_dict = {}
 group_num = 1
+volume_list =[]
 
 #Read in each group of protein files
 for line in handle:
@@ -32,6 +34,7 @@ for line in handle:
 			protein_dict[proteinid]=volume
 			volume_sum+=volume
 	protein_dict["sum"] = volume_sum
+	volume_list.append(volume_sum)
 	group_id = "group "+str(group_num)
 	volume_dict[group_id] = protein_dict
 
@@ -41,8 +44,17 @@ for line in handle:
 
 handle.close()
 
-
+volume_list.sort()
 print(volume_dict)
+
+ordered_group = []
+for key in volume_dict:
+	for item in volume_list:
+		proteinvol = volume_dict[key]
+		if proteinvol["sum"]==item:
+			ordered_group.append(key)
+print(ordered_group)
+
 
 
 
