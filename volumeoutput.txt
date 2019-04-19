@@ -1,0 +1,3 @@
+{'group 1': {'5me2': 82931.25, 'sum': 165862.5}, 'group 2': {'5me2': 82931.25, '6ct0': 33291.25, 'sum': 116222.5}}
+['group 1', 'group 2']
+END OF ATOMIC VOLUME

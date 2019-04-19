@@ -1,11 +1,8 @@
 #!/bin/bash
-input="$1"
-
-echo "Enter voxel size"
-
-read voxel
+input="$1" "$2"
 
 
+voxel="$2"
 vol5="EM5.mrc"
 vol10="EM10.mrc"
 vol15="EM15.mrc"

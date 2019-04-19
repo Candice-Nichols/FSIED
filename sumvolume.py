@@ -55,6 +55,15 @@ for key in volume_dict:
 			ordered_group.append(key)
 print(ordered_group)
 
+output = open("volumeoutput.txt","w")
+output.write(str(volume_dict))
+output.write("\n")
+output.write(str(ordered_group))
+output.write("\n")
+output.write("END OF ATOMIC VOLUME")
+output.close()
+
+
 
 
 
