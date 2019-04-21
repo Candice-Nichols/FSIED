@@ -1,5 +1,5 @@
 #!/bin/bash
-input="$1" "$2"
+input="$1"
 
 
 voxel="$2"
@@ -13,11 +13,13 @@ relion_image_handler --i $1 --o $vol10 --lowpass 10
 relion_image_handler --i $1 --o $vol15 --lowpass 15
 relion_image_handler --i $1 --o $vol20 --lowpass 20
 
-volume $1 $voxel
-volume $vol5 $voxel
-volume $vol10 $voxel
-volume $vol15 $voxel
-volume $vol20 $voxel
+echo "$input" >> EMoutput.txt
+volume $1 $voxel >> EMoutput.txt
+volume $vol5 $voxel >> EMoutput.txt
+volume $vol10 $voxel >> EMoutput.txt
+volume $vol15 $voxel >> EMoutput.txt
+volume $vol20 $voxel >> EMoutput.txt
+echo "end $input" >> EMoutput.txt
 
 
 

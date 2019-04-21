@@ -1,0 +1,5 @@
+atomid: atom_vol, EMid: EM_vol
+group 1: 82931.25 , 5m3l.mrc: 3100584.0
+group 1: 82931.25 , 6m3l.mrc: 3117784.0
+group 2: 116222.5 , 5m3l.mrc: 3100584.0
+group 2: 116222.5 , 6m3l.mrc: 3117784.0

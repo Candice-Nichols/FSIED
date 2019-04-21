@@ -1,0 +1,54 @@
+5m3l.mrc
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3100464.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3100764.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3100564.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3100564.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3100564.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+end 5m3l.mrc
+6m3l.mrc
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3100464.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3100764.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3106564.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3140564.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+EMAN 1.9 Cluster (SDate: 2009/02/18 05:12:22 $).
+Run 'volume help' for detailed help.
+Min=0.000000 Max=1.03783 Sigma=0.186569 Threshold=0.290353
+
+187558/2515456 3140564.000000 A^3 ~2511.38 kilodaltons (@1.35g/ml)
+end 6m3l.mrc
