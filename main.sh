@@ -6,11 +6,11 @@ echo "finished fetching pdb files"
 echo "start calculating volume"
 python sumvolume.py
 
-#echo "start calculating EM volume"
-#python AvgEMvolume.py
+echo "start calculating EM volume"
+python AvgEMvolume.py
 
-#echo "start sorting"
-#python Sort.py
+echo "start sorting"
+python Sort.py
 
 for file in *.pdb
 	do

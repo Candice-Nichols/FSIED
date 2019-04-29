@@ -3,6 +3,8 @@ input="$1"
 
 
 voxel="$2"
+echo "$voxel"
+echo "$input"
 vol5="EM5.mrc"
 vol10="EM10.mrc"
 vol15="EM15.mrc"

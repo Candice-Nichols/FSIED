@@ -2,16 +2,21 @@ import subprocess
 import os
 
 print("start reading in mrc files")
-#handle = open("inputmrc.txt","r")
-#print("start computing the EMVolume")
-#for line in handle:
-#	line=line.strip()
-#	info=line.split(":")
-#	mrc_id=line[0] + ".mrc"
-#	voxel_size=line[1]
-#	val = subprocess.check_call("./EMVolume.sh %s %s" % (mrc_id, voxel_size), shell=True)
+handle = open("inputmrc.txt","r")
+print("start computing the EMVolume")
+dict_multi={}
+for line in handle:
+	line=line.strip()
+	info=line.split(":")
+	mrc_info=info[0].split("*")
+	mrc_id=mrc_info[0] + ".mrc"
+	if len(mrc_info)==2:
+		multi = mrc_info[1]
+		dict_multi[mrc_id]=multi
+	voxel_size=info[1]
+	val = os.system("./EMVolume.sh {0} {1}".format(mrc_id, voxel_size))
 
-#handle.close()
+handle.close()
 print("Finish computing the EMVolume")
 
 print("start computing the average EMVolume")
@@ -24,8 +29,11 @@ for line in handle2:
 	if len(info) == 1:
 		emfile = info[0]
 		lst_vol = []
-	elif len(info) == 6 and info[2]=="A^3":
-		emvol = float(info[1])
+	elif len(info) == 7 and info[2]=="A^3":
+		if emfile in dict_multi:
+			emvol = float(info[1])*float(dict_multi[emfile])
+		else:
+			emvol = float(info[1])
 		lst_vol.append(emvol)
 	elif len(info) ==2 and info[0]=="end":
 		new_dict = {}
@@ -34,18 +42,20 @@ for line in handle2:
 		new_dict["10"] = lst_vol[2]
 		new_dict["15"] = lst_vol[3]
 		new_dict["20"] = lst_vol[4]
-		avg=sum(lst_vol)/len(lst_vol)
+		avg=sum(lst_vol)/(len(lst_vol))
 		new_dict["avg"] = avg
 		avg_lst.append(avg)
 		outputdict[emfile]=new_dict
+print(avg_lst)
 print(outputdict)
 handle2.close()
-#os.remove("EMoutput.txt")
+os.remove("EMoutput.txt")
 
 avg_lst.sort()
+print(avg_lst)
 ordered_group = []
-for key in outputdict:
-	for item in avg_lst:
+for item in avg_lst:
+	for key in outputdict:
 		proteinvol = outputdict[key]
 		if proteinvol["avg"]==item:
 			ordered_group.append(key)
