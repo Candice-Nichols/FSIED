@@ -53,6 +53,7 @@ for i in range(count):
 	score=abs(sum_dict[pdbgroup]-sum_em_dict[emfile])/sum_dict[pdbgroup]
         print(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" " + str(score))
         handle2.write(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" "+str(score)+"\n")
+	#sorting using nearest neighbor
 	for j in range(3,0,-1):
 		if (i-j)>=0:
                 	emfile=em_order[i-j]

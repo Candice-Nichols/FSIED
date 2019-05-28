@@ -10,6 +10,7 @@ for line in handle:
 	line=line.strip()
 	pdbids=line.split(",")
 	for idlst in pdbids:
+		#parse pdbids from input
 		idlst=idlst.split("*")
 		id=idlst[0]
 		command = "wget https://files.rcsb.org/download/"+id+".pdb"

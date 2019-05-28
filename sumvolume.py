@@ -42,6 +42,7 @@ for line in handle:
 	protein_dict["sum"] = volume_sum
 	volume_list.append(volume_sum)
 	
+	#determine group id (group containing 1 protein: id=pdbid, group containing more than one protein is assigned a number)
 	if len(protein_dict)==2:
 		group_id = proteinid
 	else:
