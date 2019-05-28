@@ -60,6 +60,7 @@ python refineSort.py
 
 ### Calculating atomic structure volume using ProteinVolume 
 ```
+cd ProteinVolume_1
 java -jar ProteinVolume_1.3.jar pdbfile.pdb -het
 ```
 
