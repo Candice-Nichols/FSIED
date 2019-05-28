@@ -58,5 +58,8 @@ After running the fitted pair script, users can opt to compute a more refined po
 python refineSort.py
 ```
 
-
+### Calculating atomic structure volume using ProteinVolume 
+```
+java -jar ProteinVolume_1.3.jar pdbfile.pdb -het
+```
 
