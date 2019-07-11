@@ -1,5 +1,6 @@
 import ast
 handle = open("volumeoutput.txt","r")
+#handle = open("volumeoutput_copy.txt","r")
 
 #read dictionary of group volume
 line1=handle.readline()
@@ -51,20 +52,20 @@ for i in range(count):
 	emfile=em_order[i]
 	print(sum_dict[pdbgroup])
 	score=abs(sum_dict[pdbgroup]-sum_em_dict[emfile])/sum_dict[pdbgroup]
-        print(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" " + str(score))
-        handle2.write(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" "+str(score)+"\n")
+	print(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" " + str(score))
+	handle2.write(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" "+str(score)+"\n")
 	#sorting using nearest neighbor
 	for j in range(3,0,-1):
 		if (i-j)>=0:
-                	emfile=em_order[i-j]
+			emfile=em_order[i-j]
 			score=abs(sum_dict[pdbgroup]-sum_em_dict[emfile])/sum_dict[pdbgroup]+j
 			print(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" " + str(score))
 			handle2.write(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" "+str(score)+"\n")
 		if (i+j)<count:
-                        emfile=em_order[i+j]
-                        score=abs(sum_dict[pdbgroup]-sum_em_dict[emfile])/sum_dict[pdbgroup]+j
-                        print(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" " + str(score))
-                        handle2.write(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" "+str(score)+"\n")
+			emfile=em_order[i+j]
+			score=abs(sum_dict[pdbgroup]-sum_em_dict[emfile])/sum_dict[pdbgroup]+j
+			print(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" " + str(score))
+			handle2.write(pdbgroup+": "+str(sum_dict[pdbgroup])+" , "+emfile+": "+str(sum_em_dict[emfile])+" "+str(score)+"\n")
 	print()
 	handle2.write("\n")
 handle2.close()

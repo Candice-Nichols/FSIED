@@ -1,5 +1,6 @@
 import ast
 handle = open("volumeoutput.txt","r")
+#handle = open("volumeoutput_copy.txt","r")
 
 #read dictionary of group volume
 line1=handle.readline()
