@@ -52,6 +52,7 @@ def main():
 	em_volume = {"EM1":10, "EM2":12, "EM3":17, "EM4":25}
 	subunit_volume = {"A":4, "B":2, "C":7, "D":5, "E":3, "F":1, "G":8, "H":0.5, "I":1.5, "J":6, "K":3.5, "L":4.5}
 
+	handle=open("assemble_output.txt","w")
 	#determine order of em map by acsending order
 	lst_em_vol = list(em_volume.values())
 	lst_em_vol.sort()
@@ -100,9 +101,16 @@ def main():
 		combo_cache[str(current_group)]=new_dict
 	
 	print(largest_em)
+	output_str=largest_em+".mrc"
+	handle.write(output_str)
+	handle.write("\n")
 	for key in combo_cache:
+		handle.write(key)
+		handle.write("\n")
 		print(key)
 		keys = combo_cache[key]
+		handle.write(str(keys))
+		handle.write("\n")
 		print(keys)
 		#for value in keys:
 		#	print(value, ":" ,keys[value])	
@@ -113,8 +121,14 @@ def main():
 	for i in range(len(lst_em)-1,0,-1):
 		curr_em_map = lst_em[i]
 		curr_em_vol= em_volume[curr_em_map]
+		handle.write("\n")
+		output_str=curr_em_map+".mrc"
+		handle.write(output_str)
+		handle.write("\n")
 		print(curr_em_map)
 		for group in combo_cache:
+			handle.write(group)
+			handle.write("\n")
 			print(group)
 			new_dict2={}
 			combo_pair = combo_cache[group]
@@ -126,13 +140,15 @@ def main():
 					new_dict2[str(combo)]=vol
 				else:
 					next
+			handle.write(str(new_dict2))
+			handle.write("\n")
 			print(new_dict2)
 			print()
 		print()
 		print()
 	
-	
-
+	handle.write("end")
+	handle.close()
 
 
 			
