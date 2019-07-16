@@ -1,4 +1,5 @@
 import itertools
+import ast
 #determine the minimum key value pair of a dictionary
 def min_dict(dict_input, output_type):
 	key_list=list(dict_input)
@@ -48,6 +49,38 @@ def max_comp(volume_data, vol_limit, output_type):
 
 
 def main():
+	handle0= open("volumeoutput.txt","r")
+	protein_groups2=[]
+	em_volume2={}
+	subunit_volume2={}
+
+	#parse subunit volume from volumeoutput.txt
+	main_dict= handle0.readline()
+	main_dict=ast.literal_eval(main_dict)
+	for group in main_dict:
+		new_lst_sub=[]
+		for subunit in main_dict[group]:
+			new_dict_0= main_dict[group]
+			if subunit!="sum":
+				new_lst_sub.append(subunit)
+				subunit_volume2[subunit]=new_dict_0[subunit]
+		protein_groups2.append(new_lst_sub)
+	print(protein_groups2)
+	print(subunit_volume2)
+
+	emptyline= handle0.readline()
+	emptyline2 = handle0.readline()
+
+	#parse em volume from volumeoutput.txt
+	main_dict2 = handle0.readline()
+	main_dict2 = ast.literal_eval(main_dict2)
+	for emmap in main_dict2:
+		emmap_vol = main_dict2[emmap]
+		em_volume2[emmap]= emmap_vol['avg']
+	print(em_volume2)
+
+
+
 	protein_groups= [["A","B"], ["C","D"], ["E","F","G"], ["H","I","J","K","L"]]
 	em_volume = {"EM1":10, "EM2":12, "EM3":17, "EM4":25}
 	subunit_volume = {"A":4, "B":2, "C":7, "D":5, "E":3, "F":1, "G":8, "H":0.5, "I":1.5, "J":6, "K":3.5, "L":4.5}
