@@ -4,7 +4,9 @@ from chimera import runCommand # opens chimera without visual interface
 from chimera import replyobj # emits status message
 from chimera.tkgui import saveReplyLog
 
-
+input=open("testInput.txt","r")
+for line in input:
+		line.strip()
 fn=("6he8.pdb") # change to file name 
 
 replyobj.status('Processing ' + fn) # shows the file that is being worked on

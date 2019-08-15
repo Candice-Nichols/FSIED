@@ -1,0 +1,1133 @@
+Processing 6he8.pdb
+Opening 6he8.pdb...
+#0, chain 1: proteasome subunit β
+
+#0, chain 2: proteasome subunit β
+
+#0, chain 3: proteasome subunit β
+
+#0, chain 4: proteasome subunit β
+
+#0, chain 5: proteasome subunit β
+
+#0, chain 6: proteasome subunit β
+
+#0, chain 7: proteasome subunit β
+
+#0, chain A: proteasome subunit α
+
+#0, chain B: proteasome subunit α
+
+#0, chain C: proteasome subunit α
+
+#0, chain D: proteasome subunit α
+
+#0, chain E: proteasome subunit α
+
+#0, chain F: proteasome subunit α
+
+#0, chain G: proteasome subunit α
+
+#0, chain H: proteasome-activating nucleotidase
+
+#0, chain I: proteasome-activating nucleotidase
+
+#0, chain J: proteasome-activating nucleotidase
+
+#0, chain K: proteasome-activating nucleotidase
+
+#0, chain L: proteasome-activating nucleotidase
+
+#0, chain M: proteasome-activating nucleotidase
+
+#0, chain a: proteasome subunit α
+
+#0, chain b: proteasome subunit α
+
+#0, chain c: proteasome subunit α
+
+#0, chain d: proteasome subunit α
+
+#0, chain e: proteasome subunit α
+
+#0, chain f: proteasome subunit α
+
+#0, chain g: proteasome subunit α
+
+#0, chain h: proteasome subunit β
+
+#0, chain i: proteasome subunit β
+
+#0, chain j: proteasome subunit β
+
+#0, chain k: proteasome subunit β
+
+#0, chain l: proteasome subunit β
+
+#0, chain m: proteasome subunit β
+
+#0, chain n: proteasome subunit β
+
+6he8.pdb opened
+grid size [635, 297, 361] atoms 66753
+grid size [45, 165, 180] atoms 151
+6he8.pdb SES main surface ? 5:  volume = 17.993
+
+6he8.pdb SES main surface ? 3:  volume = 82.742
+
+6he8.pdb SES main surface ? 7:  volume = 159.69
+
+6he8.pdb SES main surface ? 15:  volume = 47.222
+
+6he8.pdb SES main surface ? 11:  volume = 85.31
+
+6he8.pdb SES main surface ? 105:  volume = 55.876
+
+6he8.pdb SES main surface ? 106:  volume = 29.397
+
+6he8.pdb SES main surface ? 108:  volume = 63.001
+
+6he8.pdb SES main surface ? 109:  volume = 66.186
+
+6he8.pdb SES main surface ? 110:  volume = 32.897
+
+6he8.pdb SES main surface ? 111:  volume = 18.961
+
+6he8.pdb SES main surface ? 437:  volume = 53.455
+
+6he8.pdb SES main surface ? 440:  volume = 30.729
+
+6he8.pdb SES main surface ? 139:  volume = 12.27
+
+6he8.pdb SES main surface ? 141:  volume = 20.292
+
+6he8.pdb SES main surface ? 294:  volume = 12.188
+
+6he8.pdb SES main surface ? 288:  volume = 35.996
+
+6he8.pdb SES main surface ? 289:  volume = 13.781
+
+6he8.pdb SES main surface ? 290:  volume = 13.952
+
+6he8.pdb SES main surface ? 291:  volume = 54.866
+
+6he8.pdb SES main surface ? 292:  volume = 11.4
+
+6he8.pdb SES main surface ? 125:  volume = 34.006
+
+6he8.pdb SES main surface ? 126:  volume = 11.094
+
+6he8.pdb SES main surface ? 128:  volume = 15.92
+
+6he8.pdb SES main surface ? 424:  volume = 28.89
+
+6he8.pdb SES main surface ? 425:  volume = 41.991
+
+6he8.pdb SES main surface ? 426:  volume = 397.76
+
+6he8.pdb SES main surface ? 427:  volume = 27.432
+
+6he8.pdb SES main surface ? 428:  volume = 41.6
+
+6he8.pdb SES main surface ? 429:  volume = 23.78
+
+6he8.pdb SES main surface ? 119:  volume = 11.751
+
+6he8.pdb SES main surface ? 123:  volume = 29.577
+
+6he8.pdb SES main surface ? 415:  volume = 95.279
+
+6he8.pdb SES main surface ? 416:  volume = 15.379
+
+6he8.pdb SES main surface ? 419:  volume = 11.685
+
+6he8.pdb SES main surface ? 422:  volume = 47.068
+
+6he8.pdb SES main surface ? 423:  volume = 34.749
+
+6he8.pdb SES main surface ? 287:  volume = 12.159
+
+6he8.pdb SES main surface ? 280:  volume = 22.283
+
+6he8.pdb SES main surface ? 283:  volume = 0.00010931
+
+6he8.pdb SES main surface ? 284:  volume = 16.328
+
+6he8.pdb SES main surface ? 117:  volume = 15.936
+
+6he8.pdb SES main surface ? 407:  volume = 13.989
+
+6he8.pdb SES main surface ? 409:  volume = 37.289
+
+6he8.pdb SES main surface ? 411:  volume = 117.03
+
+6he8.pdb SES main surface ? 413:  volume = 96.191
+
+6he8.pdb SES main surface ? 414:  volume = 112.27
+
+6he8.pdb SES main surface ? 113:  volume = 69.902
+
+6he8.pdb SES main surface ? 114:  volume = 41.969
+
+6he8.pdb SES main surface ? 115:  volume = 31.524
+
+6he8.pdb SES main surface ? 116:  volume = 12.236
+
+6he8.pdb SES main surface ? 276:  volume = 19.591
+
+6he8.pdb SES main surface ? 278:  volume = 11.506
+
+6he8.pdb SES main surface ? 279:  volume = 21.378
+
+6he8.pdb SES main surface ? 28:  volume = 12.592
+
+6he8.pdb SES main surface ? 29:  volume = 18.277
+
+6he8.pdb SES main surface ? 30:  volume = 13.065
+
+6he8.pdb SES main surface ? 19:  volume = 16.137
+
+6he8.pdb SES main surface ? 22:  volume = 14.184
+
+6he8.pdb SES main surface ? 25:  volume = 17.788
+
+6he8.pdb SES main surface ? 27:  volume = 0.0042332
+
+6he8.pdb SES main surface ? 54:  volume = 11.852
+
+6he8.pdb SES main surface ? 57:  volume = 35.628
+
+6he8.pdb SES main surface ? 68:  volume = 41.674
+
+6he8.pdb SES main surface ? 71:  volume = 11.331
+
+6he8.pdb SES main surface ? 73:  volume = 0.00083906
+
+6he8.pdb SES main surface ? 53:  volume = 11.027
+
+6he8.pdb SES main surface ? 50:  volume = 28.048
+
+6he8.pdb SES main surface ? 48:  volume = 14.114
+
+6he8.pdb SES main surface ? 33:  volume = 11.8
+
+6he8.pdb SES main surface ? 34:  volume = 47.109
+
+6he8.pdb SES main surface ? 35:  volume = 22.313
+
+6he8.pdb SES main surface ? 36:  volume = 30.217
+
+6he8.pdb SES main surface ? 37:  volume = 10.895
+
+6he8.pdb SES main surface ? 38:  volume = 10.772
+
+6he8.pdb SES main surface ? 39:  volume = 93.203
+
+6he8.pdb SES main surface ? 40:  volume = 40.319
+
+6he8.pdb SES main surface ? 41:  volume = 10.677
+
+6he8.pdb SES main surface ? 43:  volume = 12.78
+
+6he8.pdb SES main surface ? 44:  volume = 11.356
+
+6he8.pdb SES main surface ? 45:  volume = 18.235
+
+6he8.pdb SES main surface ? 46:  volume = 19.632
+
+6he8.pdb SES main surface ? 51:  volume = 35.551
+
+6he8.pdb SES main surface ? 52:  volume = 18.011
+
+6he8.pdb SES main surface ? 56:  volume = 26.005
+
+6he8.pdb SES main surface ? 61:  volume = 12.579
+
+6he8.pdb SES main surface ? 31:  volume = 16.428
+
+6he8.pdb SES main surface ? 26:  volume = 13.374
+
+6he8.pdb SES main surface ? 20:  volume = 12.281
+
+6he8.pdb SES main surface ? 55:  volume = 21.324
+
+6he8.pdb SES main surface ? 18:  volume = 20.941
+
+6he8.pdb SES main surface ? 443:  volume = 26.173
+
+6he8.pdb SES main surface ? 446:  volume = 37.354
+
+6he8.pdb SES main surface ? 447:  volume = 11.051
+
+6he8.pdb SES main surface ? 263:  volume = 56.235
+
+6he8.pdb SES main surface ? 267:  volume = 13.463
+
+6he8.pdb SES main surface ? 268:  volume = 13.093
+
+6he8.pdb SES main surface ? 403:  volume = 17.337
+
+6he8.pdb SES main surface ? 404:  volume = 15.442
+
+6he8.pdb SES main surface ? 405:  volume = 25.81
+
+6he8.pdb SES main surface ? 103:  volume = 12.135
+
+6he8.pdb SES main surface ? 104:  volume = 21.131
+
+6he8.pdb SES main surface ? 254:  volume = 20.698
+
+6he8.pdb SES main surface ? 255:  volume = 20.62
+
+6he8.pdb SES main surface ? 402:  volume = 0.00015717
+
+6he8.pdb SES main surface ? 99:  volume = 14.111
+
+6he8.pdb SES main surface ? 100:  volume = 38.537
+
+6he8.pdb SES main surface ? 101:  volume = 13.189
+
+6he8.pdb SES main surface ? 250:  volume = 16.601
+
+6he8.pdb SES main surface ? 96:  volume = 14.111
+
+6he8.pdb SES main surface ? 97:  volume = 12.86
+
+6he8.pdb SES main surface ? 98:  volume = 12.211
+
+6he8.pdb SES main surface ? 246:  volume = 29.886
+
+6he8.pdb SES main surface ? 247:  volume = 10.991
+
+6he8.pdb SES main surface ? 248:  volume = 24.365
+
+6he8.pdb SES main surface ? 93:  volume = 20.827
+
+6he8.pdb SES main surface ? 94:  volume = 18.041
+
+6he8.pdb SES main surface ? 240:  volume = 24.48
+
+6he8.pdb SES main surface ? 241:  volume = 17.331
+
+6he8.pdb SES main surface ? 242:  volume = 0.0022495
+
+6he8.pdb SES main surface ? 91:  volume = 0.0014304
+
+6he8.pdb SES main surface ? 236:  volume = 11.494
+
+6he8.pdb SES main surface ? 237:  volume = 40.135
+
+6he8.pdb SES main surface ? 238:  volume = 16.163
+
+6he8.pdb SES main surface ? 239:  volume = 28.466
+
+6he8.pdb SES main surface ? 89:  volume = 20.782
+
+6he8.pdb SES main surface ? 90:  volume = 0.0059266
+
+6he8.pdb SES main surface ? 233:  volume = 18.234
+
+6he8.pdb SES main surface ? 234:  volume = 25.513
+
+6he8.pdb SES main surface ? 235:  volume = 37.022
+
+6he8.pdb SES main surface ? 258:  volume = 11.041
+
+6he8.pdb SES main surface ? 85:  volume = 58.136
+
+6he8.pdb SES main surface ? 229:  volume = 14.796
+
+6he8.pdb SES main surface ? 230:  volume = 37.685
+
+6he8.pdb SES main surface ? 360:  volume = 12.22
+
+6he8.pdb SES main surface ? 361:  volume = 0.0020679
+
+6he8.pdb SES main surface ? 227:  volume = 23.233
+
+6he8.pdb SES main surface ? 228:  volume = 17.367
+
+6he8.pdb SES main surface ? 224:  volume = 23.069
+
+6he8.pdb SES main surface ? 226:  volume = 14.242
+
+6he8.pdb SES main surface ? 347:  volume = 20.526
+
+6he8.pdb SES main surface ? 348:  volume = 19.225
+
+6he8.pdb SES main surface ? 220:  volume = 0.0026427
+
+6he8.pdb SES main surface ? 222:  volume = 26.182
+
+6he8.pdb SES main surface ? 340:  volume = 34.522
+
+6he8.pdb SES main surface ? 341:  volume = 16.206
+
+6he8.pdb SES main surface ? 216:  volume = 33.581
+
+6he8.pdb SES main surface ? 217:  volume = 27.979
+
+6he8.pdb SES main surface ? 218:  volume = 17.82
+
+6he8.pdb SES main surface ? 219:  volume = 12.078
+
+6he8.pdb SES main surface ? 335:  volume = 44.832
+
+6he8.pdb SES main surface ? 336:  volume = 43.122
+
+6he8.pdb SES main surface ? 337:  volume = 31.864
+
+6he8.pdb SES main surface ? 479:  volume = 21.187
+
+6he8.pdb SES main surface ? 481:  volume = 11.613
+
+6he8.pdb SES main surface ? 482:  volume = 96.304
+
+6he8.pdb SES main surface ? 212:  volume = 25.726
+
+6he8.pdb SES main surface ? 213:  volume = 25.97
+
+6he8.pdb SES main surface ? 214:  volume = 12.303
+
+6he8.pdb SES main surface ? 215:  volume = 25.819
+
+6he8.pdb SES main surface ? 331:  volume = 96.818
+
+6he8.pdb SES main surface ? 332:  volume = 75.267
+
+6he8.pdb SES main surface ? 333:  volume = 43.189
+
+6he8.pdb SES main surface ? 328:  volume = 84.021
+
+6he8.pdb SES main surface ? 329:  volume = 68.236
+
+6he8.pdb SES main surface ? 330:  volume = 13.962
+
+6he8.pdb SES main surface ? 476:  volume = 11.536
+
+6he8.pdb SES main surface ? 477:  volume = 15.838
+
+6he8.pdb SES main surface ? 478:  volume = 12.611
+
+6he8.pdb SES main surface ? 208:  volume = 0.00038115
+
+6he8.pdb SES main surface ? 324:  volume = 48.999
+
+6he8.pdb SES main surface ? 325:  volume = 63.555
+
+6he8.pdb SES main surface ? 326:  volume = 44.545
+
+6he8.pdb SES main surface ? 472:  volume = 44.003
+
+6he8.pdb SES main surface ? 473:  volume = 24.073
+
+6he8.pdb SES main surface ? 474:  volume = 39.156
+
+6he8.pdb SES main surface ? 475:  volume = 24.696
+
+6he8.pdb SES main surface ? 202:  volume = 15.136
+
+6he8.pdb SES main surface ? 320:  volume = 14.11
+
+6he8.pdb SES main surface ? 323:  volume = 12.151
+
+6he8.pdb SES main surface ? 196:  volume = 42.107
+
+6he8.pdb SES main surface ? 467:  volume = 90.92
+
+6he8.pdb SES main surface ? 468:  volume = 0.0032783
+
+6he8.pdb SES main surface ? 319:  volume = 17.52
+
+6he8.pdb SES main surface ? 194:  volume = 0.0002143
+
+6he8.pdb SES main surface ? 195:  volume = 131.16
+
+6he8.pdb SES main surface ? 312:  volume = 22.395
+
+6he8.pdb SES main surface ? 314:  volume = 22.12
+
+6he8.pdb SES main surface ? 315:  volume = 13.329
+
+6he8.pdb SES main surface ? 464:  volume = 101.47
+
+6he8.pdb SES main surface ? 465:  volume = 13.133
+
+6he8.pdb SES main surface ? 466:  volume = 26.952
+
+6he8.pdb SES main surface ? 308:  volume = 14.874
+
+6he8.pdb SES main surface ? 309:  volume = 14.981
+
+6he8.pdb SES main surface ? 310:  volume = 27.679
+
+6he8.pdb SES main surface ? 311:  volume = 18.213
+
+6he8.pdb SES main surface ? 462:  volume = 78.47
+
+6he8.pdb SES main surface ? 463:  volume = 0.00070293
+
+6he8.pdb SES main surface ? 306:  volume = 11.166
+
+6he8.pdb SES main surface ? 307:  volume = 12.16
+
+6he8.pdb SES main surface ? 460:  volume = 11.349
+
+6he8.pdb SES main surface ? 301:  volume = 40.699
+
+6he8.pdb SES main surface ? 302:  volume = 10.881
+
+6he8.pdb SES main surface ? 304:  volume = 183.25
+
+6he8.pdb SES main surface ? 451:  volume = 136.21
+
+6he8.pdb SES main surface ? 448:  volume = 188.2
+
+6he8.pdb SES main surface ? 449:  volume = 33.12
+
+6he8.pdb SES main surface ? 450:  volume = 40.983
+
+6he8.pdb SES main surface ? 152:  volume = 14.417
+
+6he8.pdb SES main surface ? 297:  volume = 25.026
+
+6he8.pdb SES main surface ? 298:  volume = 24.241
+
+6he8.pdb SES main surface ? 299:  volume = 11.433
+
+6he8.pdb SES main surface ? 295:  volume = 19.505
+
+6he8.pdb SES main surface ? 296:  volume = 14.235
+
+6he8.pdb SES main surface ? 345:  volume = 0.033326
+
+6he8.pdb SES main surface ? 346:  volume = 26.37
+
+6he8.pdb SES main surface ? 513:  volume = 23.316
+
+6he8.pdb SES main surface ? 515:  volume = 12.65
+
+6he8.pdb SES main surface ? 2:  volume = 1.1898e+06
+
+6he8.pdb SES main surface ? 445:  volume = 98.824
+
+6he8.pdb SES main surface ? 24:  volume = 10.704
+
+6he8.pdb SES main surface ? 193:  volume = 29.221
+
+6he8.pdb SES main surface ? 317:  volume = 10.947
+
+6he8.pdb SES main surface ? 439:  volume = 60.957
+
+6he8.pdb SES main surface ? 165:  volume = 0.0001603
+
+6he8.pdb SES main surface ? 155:  volume = 14.354
+
+6he8.pdb SES main surface ? 418:  volume = 19.871
+
+6he8.pdb SES main surface ? 232:  volume = 24.159
+
+6he8.pdb SES main surface ? 204:  volume = 0.0040643
+
+6he8.pdb SES main surface ? 64:  volume = 6.7169e-05
+
+6he8.pdb SES main surface ? 192:  volume = 53.189
+
+6he8.pdb SES main surface ? 286:  volume = 19.889
+
+6he8.pdb SES main surface ? 181:  volume = 0.024809
+
+6he8.pdb SES main surface ? 454:  volume = 18.302
+
+6he8.pdb SES main surface ? 471:  volume = 78.33
+
+6he8.pdb SES main surface ? 211:  volume = 14.898
+
+6he8.pdb SES main surface ? 365:  volume = 15.805
+
+6he8.pdb SES main surface ? 159:  volume = 0.00084401
+
+6he8.pdb SES main surface ? 47:  volume = 12.953
+
+6he8.pdb SES main surface ? 339:  volume = 19.145
+
+6he8.pdb SES main surface ? 245:  volume = 51.784
+
+6he8.pdb SES main surface ? 122:  volume = 11.939
+
+6he8.pdb SES main surface ? 63:  volume = 4.2275e-05
+
+6he8.pdb SES main surface ? 221:  volume = 24.734
+
+6he8.pdb SES main surface ? 137:  volume = 13.209
+
+6he8.pdb SES main surface ? 12:  volume = 49.757
+
+6he8.pdb SES main surface ? 150:  volume = 11.195
+
+6he8.pdb SES main surface ? 282:  volume = 10.735
+
+6he8.pdb SES main surface ? 17:  volume = 0.00036483
+
+6he8.pdb SES main surface ? 200:  volume = 12.446
+
+6he8.pdb SES main surface ? 253:  volume = 28.5
+
+6he8.pdb SES main surface ? 395:  volume = 0.0092371
+
+6he8.pdb SES main surface ? 396:  volume = 14.382
+
+6he8.pdb SES main surface ? 399:  volume = 21.093
+
+6he8.pdb SES main surface ? 401:  volume = 11.062
+
+6he8.pdb SES main surface ? 387:  volume = 39.819
+
+6he8.pdb SES main surface ? 459:  volume = 73.907
+
+6he8.pdb SES main surface ? 363:  volume = 2.6106e-06
+
+6he8.pdb SES main surface ? 206:  volume = 13.372
+
+6he8.pdb SES main surface ? 209:  volume = 38.077
+
+6he8.pdb SES ligand surface ? 3:  volume = 363.71
+
+6he8.pdb SES ligand surface ? 10:  volume = 312.73
+
+6he8.pdb SES ligand surface ? 8:  volume = 356.41
+
+6he8.pdb SES ligand surface ? 4:  volume = 365.96
+
+6he8.pdb SES ligand surface ? 9:  volume = 363.5
+
+6he8.pdb SES main surface ? 5:  area = 33.669
+
+6he8.pdb SES main surface ? 3:  area = 103.27
+
+6he8.pdb SES main surface ? 7:  area = 205.13
+
+6he8.pdb SES main surface ? 15:  area = 65.344
+
+6he8.pdb SES main surface ? 11:  area = 101.87
+
+6he8.pdb SES main surface ? 105:  area = 83.646
+
+6he8.pdb SES main surface ? 106:  area = 47.356
+
+6he8.pdb SES main surface ? 108:  area = 92.781
+
+6he8.pdb SES main surface ? 109:  area = 103.31
+
+6he8.pdb SES main surface ? 110:  area = 51.268
+
+6he8.pdb SES main surface ? 111:  area = 35.182
+
+6he8.pdb SES main surface ? 437:  area = 73.611
+
+6he8.pdb SES main surface ? 440:  area = 48.921
+
+6he8.pdb SES main surface ? 139:  area = 26.005
+
+6he8.pdb SES main surface ? 141:  area = 36.619
+
+6he8.pdb SES main surface ? 294:  area = 25.89
+
+6he8.pdb SES main surface ? 288:  area = 54.33
+
+6he8.pdb SES main surface ? 289:  area = 28.122
+
+6he8.pdb SES main surface ? 290:  area = 28.348
+
+6he8.pdb SES main surface ? 291:  area = 76.639
+
+6he8.pdb SES main surface ? 292:  area = 24.764
+
+6he8.pdb SES main surface ? 125:  area = 54.697
+
+6he8.pdb SES main surface ? 126:  area = 24.317
+
+6he8.pdb SES main surface ? 128:  area = 31.039
+
+6he8.pdb SES main surface ? 424:  area = 47.447
+
+6he8.pdb SES main surface ? 425:  area = 72.236
+
+6he8.pdb SES main surface ? 426:  area = 361.85
+
+6he8.pdb SES main surface ? 427:  area = 46.004
+
+6he8.pdb SES main surface ? 428:  area = 61.878
+
+6he8.pdb SES main surface ? 429:  area = 40.81
+
+6he8.pdb SES main surface ? 119:  area = 25.273
+
+6he8.pdb SES main surface ? 123:  area = 48.267
+
+6he8.pdb SES main surface ? 415:  area = 120.15
+
+6he8.pdb SES main surface ? 416:  area = 30.353
+
+6he8.pdb SES main surface ? 419:  area = 25.175
+
+6he8.pdb SES main surface ? 422:  area = 80.459
+
+6he8.pdb SES main surface ? 423:  area = 54.334
+
+6he8.pdb SES main surface ? 287:  area = 25.858
+
+6he8.pdb SES main surface ? 280:  area = 38.951
+
+6he8.pdb SES main surface ? 283:  area = 0.018045
+
+6he8.pdb SES main surface ? 284:  area = 31.579
+
+6he8.pdb SES main surface ? 117:  area = 31.267
+
+6he8.pdb SES main surface ? 407:  area = 28.503
+
+6he8.pdb SES main surface ? 409:  area = 68.088
+
+6he8.pdb SES main surface ? 411:  area = 158.04
+
+6he8.pdb SES main surface ? 413:  area = 116.54
+
+6he8.pdb SES main surface ? 414:  area = 126.49
+
+6he8.pdb SES main surface ? 113:  area = 88.517
+
+6he8.pdb SES main surface ? 114:  area = 60.323
+
+6he8.pdb SES main surface ? 115:  area = 49.613
+
+6he8.pdb SES main surface ? 116:  area = 25.958
+
+6he8.pdb SES main surface ? 276:  area = 35.756
+
+6he8.pdb SES main surface ? 278:  area = 24.917
+
+6he8.pdb SES main surface ? 279:  area = 38.04
+
+6he8.pdb SES main surface ? 28:  area = 26.478
+
+6he8.pdb SES main surface ? 29:  area = 34.243
+
+6he8.pdb SES main surface ? 30:  area = 27.12
+
+6he8.pdb SES main surface ? 19:  area = 31.338
+
+6he8.pdb SES main surface ? 22:  area = 28.687
+
+6he8.pdb SES main surface ? 25:  area = 33.58
+
+6he8.pdb SES main surface ? 27:  area = 0.26072
+
+6he8.pdb SES main surface ? 54:  area = 25.412
+
+6he8.pdb SES main surface ? 57:  area = 54.204
+
+6he8.pdb SES main surface ? 68:  area = 67.843
+
+6he8.pdb SES main surface ? 71:  area = 24.662
+
+6he8.pdb SES main surface ? 73:  area = 0.088146
+
+6he8.pdb SES main surface ? 53:  area = 24.22
+
+6he8.pdb SES main surface ? 50:  area = 45.519
+
+6he8.pdb SES main surface ? 48:  area = 28.666
+
+6he8.pdb SES main surface ? 33:  area = 25.34
+
+6he8.pdb SES main surface ? 34:  area = 65.32
+
+6he8.pdb SES main surface ? 35:  area = 38.985
+
+6he8.pdb SES main surface ? 36:  area = 59.385
+
+6he8.pdb SES main surface ? 37:  area = 24.024
+
+6he8.pdb SES main surface ? 38:  area = 23.841
+
+6he8.pdb SES main surface ? 39:  area = 119.72
+
+6he8.pdb SES main surface ? 40:  area = 59.482
+
+6he8.pdb SES main surface ? 41:  area = 23.7
+
+6he8.pdb SES main surface ? 43:  area = 26.746
+
+6he8.pdb SES main surface ? 44:  area = 24.699
+
+6he8.pdb SES main surface ? 45:  area = 34.081
+
+6he8.pdb SES main surface ? 46:  area = 35.986
+
+6he8.pdb SES main surface ? 51:  area = 53.731
+
+6he8.pdb SES main surface ? 52:  area = 34.395
+
+6he8.pdb SES main surface ? 56:  area = 48.578
+
+6he8.pdb SES main surface ? 61:  area = 26.441
+
+6he8.pdb SES main surface ? 31:  area = 31.636
+
+6he8.pdb SES main surface ? 26:  area = 27.59
+
+6he8.pdb SES main surface ? 20:  area = 26.023
+
+6he8.pdb SES main surface ? 55:  area = 37.719
+
+6he8.pdb SES main surface ? 18:  area = 37.51
+
+6he8.pdb SES main surface ? 443:  area = 43.665
+
+6he8.pdb SES main surface ? 446:  area = 55.887
+
+6he8.pdb SES main surface ? 447:  area = 24.252
+
+6he8.pdb SES main surface ? 263:  area = 76.857
+
+6he8.pdb SES main surface ? 267:  area = 27.669
+
+6he8.pdb SES main surface ? 268:  area = 27.172
+
+6he8.pdb SES main surface ? 403:  area = 32.83
+
+6he8.pdb SES main surface ? 404:  area = 30.437
+
+6he8.pdb SES main surface ? 405:  area = 43.394
+
+6he8.pdb SES main surface ? 103:  area = 25.815
+
+6he8.pdb SES main surface ? 104:  area = 37.577
+
+6he8.pdb SES main surface ? 254:  area = 40.036
+
+6he8.pdb SES main surface ? 255:  area = 37.24
+
+6he8.pdb SES main surface ? 402:  area = 0.022803
+
+6he8.pdb SES main surface ? 99:  area = 28.597
+
+6he8.pdb SES main surface ? 100:  area = 57.882
+
+6he8.pdb SES main surface ? 101:  area = 27.282
+
+6he8.pdb SES main surface ? 250:  area = 31.945
+
+6he8.pdb SES main surface ? 96:  area = 28.545
+
+6he8.pdb SES main surface ? 97:  area = 26.836
+
+6he8.pdb SES main surface ? 98:  area = 25.921
+
+6he8.pdb SES main surface ? 246:  area = 49.239
+
+6he8.pdb SES main surface ? 247:  area = 24.165
+
+6he8.pdb SES main surface ? 248:  area = 41.965
+
+6he8.pdb SES main surface ? 93:  area = 37.371
+
+6he8.pdb SES main surface ? 94:  area = 33.902
+
+6he8.pdb SES main surface ? 240:  area = 41.573
+
+6he8.pdb SES main surface ? 241:  area = 32.833
+
+6he8.pdb SES main surface ? 242:  area = 0.13122
+
+6he8.pdb SES main surface ? 91:  area = 0.10077
+
+6he8.pdb SES main surface ? 236:  area = 24.897
+
+6he8.pdb SES main surface ? 237:  area = 59.748
+
+6he8.pdb SES main surface ? 238:  area = 31.433
+
+6he8.pdb SES main surface ? 239:  area = 47.26
+
+6he8.pdb SES main surface ? 89:  area = 37.52
+
+6he8.pdb SES main surface ? 90:  area = 0.24369
+
+6he8.pdb SES main surface ? 233:  area = 34.054
+
+6he8.pdb SES main surface ? 234:  area = 42.762
+
+6he8.pdb SES main surface ? 235:  area = 55.845
+
+6he8.pdb SES main surface ? 258:  area = 24.24
+
+6he8.pdb SES main surface ? 85:  area = 76.517
+
+6he8.pdb SES main surface ? 229:  area = 29.594
+
+6he8.pdb SES main surface ? 230:  area = 57.438
+
+6he8.pdb SES main surface ? 360:  area = 25.948
+
+6he8.pdb SES main surface ? 361:  area = 0.14253
+
+6he8.pdb SES main surface ? 227:  area = 40.155
+
+6he8.pdb SES main surface ? 228:  area = 33.19
+
+6he8.pdb SES main surface ? 224:  area = 40.303
+
+6he8.pdb SES main surface ? 226:  area = 28.785
+
+6he8.pdb SES main surface ? 347:  area = 36.999
+
+6he8.pdb SES main surface ? 348:  area = 35.34
+
+6he8.pdb SES main surface ? 220:  area = 0.12835
+
+6he8.pdb SES main surface ? 222:  area = 45.338
+
+6he8.pdb SES main surface ? 340:  area = 52.867
+
+6he8.pdb SES main surface ? 341:  area = 31.441
+
+6he8.pdb SES main surface ? 216:  area = 52.811
+
+6he8.pdb SES main surface ? 217:  area = 45.596
+
+6he8.pdb SES main surface ? 218:  area = 33.476
+
+6he8.pdb SES main surface ? 219:  area = 25.733
+
+6he8.pdb SES main surface ? 335:  area = 63.186
+
+6he8.pdb SES main surface ? 336:  area = 62.87
+
+6he8.pdb SES main surface ? 337:  area = 51.191
+
+6he8.pdb SES main surface ? 479:  area = 37.947
+
+6he8.pdb SES main surface ? 481:  area = 25.07
+
+6he8.pdb SES main surface ? 482:  area = 137.92
+
+6he8.pdb SES main surface ? 212:  area = 43.386
+
+6he8.pdb SES main surface ? 213:  area = 43.159
+
+6he8.pdb SES main surface ? 214:  area = 26.051
+
+6he8.pdb SES main surface ? 215:  area = 43.954
+
+6he8.pdb SES main surface ? 331:  area = 111.96
+
+6he8.pdb SES main surface ? 332:  area = 101.39
+
+6he8.pdb SES main surface ? 333:  area = 62.76
+
+6he8.pdb SES main surface ? 328:  area = 103.76
+
+6he8.pdb SES main surface ? 329:  area = 103.47
+
+6he8.pdb SES main surface ? 330:  area = 28.458
+
+6he8.pdb SES main surface ? 476:  area = 24.958
+
+6he8.pdb SES main surface ? 477:  area = 30.879
+
+6he8.pdb SES main surface ? 478:  area = 26.482
+
+6he8.pdb SES main surface ? 208:  area = 0.045866
+
+6he8.pdb SES main surface ? 324:  area = 67.072
+
+6he8.pdb SES main surface ? 325:  area = 79.58
+
+6he8.pdb SES main surface ? 326:  area = 68.19
+
+6he8.pdb SES main surface ? 472:  area = 62.663
+
+6he8.pdb SES main surface ? 473:  area = 41.108
+
+6he8.pdb SES main surface ? 474:  area = 58.638
+
+6he8.pdb SES main surface ? 475:  area = 42.625
+
+6he8.pdb SES main surface ? 202:  area = 29.926
+
+6he8.pdb SES main surface ? 320:  area = 28.547
+
+6he8.pdb SES main surface ? 323:  area = 25.855
+
+6he8.pdb SES main surface ? 196:  area = 61.418
+
+6he8.pdb SES main surface ? 467:  area = 112.63
+
+6he8.pdb SES main surface ? 468:  area = 0.14804
+
+6he8.pdb SES main surface ? 319:  area = 33.175
+
+6he8.pdb SES main surface ? 194:  area = 0.025473
+
+6he8.pdb SES main surface ? 195:  area = 139.04
+
+6he8.pdb SES main surface ? 312:  area = 40.07
+
+6he8.pdb SES main surface ? 314:  area = 39.216
+
+6he8.pdb SES main surface ? 315:  area = 27.515
+
+6he8.pdb SES main surface ? 464:  area = 125.62
+
+6he8.pdb SES main surface ? 465:  area = 27.218
+
+6he8.pdb SES main surface ? 466:  area = 45.131
+
+6he8.pdb SES main surface ? 308:  area = 29.689
+
+6he8.pdb SES main surface ? 309:  area = 30.052
+
+6he8.pdb SES main surface ? 310:  area = 45.22
+
+6he8.pdb SES main surface ? 311:  area = 34.146
+
+6he8.pdb SES main surface ? 462:  area = 100.23
+
+6he8.pdb SES main surface ? 463:  area = 0.055729
+
+6he8.pdb SES main surface ? 306:  area = 24.423
+
+6he8.pdb SES main surface ? 307:  area = 25.861
+
+6he8.pdb SES main surface ? 460:  area = 24.69
+
+6he8.pdb SES main surface ? 301:  area = 60.222
+
+6he8.pdb SES main surface ? 302:  area = 24.003
+
+6he8.pdb SES main surface ? 304:  area = 182.67
+
+6he8.pdb SES main surface ? 451:  area = 172.45
+
+6he8.pdb SES main surface ? 448:  area = 211.67
+
+6he8.pdb SES main surface ? 449:  area = 52.564
+
+6he8.pdb SES main surface ? 450:  area = 59.446
+
+6he8.pdb SES main surface ? 152:  area = 29.043
+
+6he8.pdb SES main surface ? 297:  area = 42.619
+
+6he8.pdb SES main surface ? 298:  area = 41.383
+
+6he8.pdb SES main surface ? 299:  area = 24.811
+
+6he8.pdb SES main surface ? 295:  area = 35.481
+
+6he8.pdb SES main surface ? 296:  area = 28.717
+
+6he8.pdb SES main surface ? 345:  area = 0.66376
+
+6he8.pdb SES main surface ? 346:  area = 43.967
+
+6he8.pdb SES main surface ? 513:  area = 40.906
+
+6he8.pdb SES main surface ? 515:  area = 26.537
+
+6he8.pdb SES main surface ? 2:  area = 2.8581e+05
+
+6he8.pdb SES main surface ? 445:  area = 141.74
+
+6he8.pdb SES main surface ? 24:  area = 23.74
+
+6he8.pdb SES main surface ? 193:  area = 54.876
+
+6he8.pdb SES main surface ? 317:  area = 24.101
+
+6he8.pdb SES main surface ? 439:  area = 77.912
+
+6he8.pdb SES main surface ? 165:  area = 0.024834
+
+6he8.pdb SES main surface ? 155:  area = 28.973
+
+6he8.pdb SES main surface ? 418:  area = 36.063
+
+6he8.pdb SES main surface ? 232:  area = 41.542
+
+6he8.pdb SES main surface ? 204:  area = 0.16829
+
+6he8.pdb SES main surface ? 64:  area = 0.020003
+
+6he8.pdb SES main surface ? 192:  area = 72.894
+
+6he8.pdb SES main surface ? 286:  area = 36.281
+
+6he8.pdb SES main surface ? 181:  area = 0.54667
+
+6he8.pdb SES main surface ? 454:  area = 34.377
+
+6he8.pdb SES main surface ? 471:  area = 97.92
+
+6he8.pdb SES main surface ? 211:  area = 29.712
+
+6he8.pdb SES main surface ? 365:  area = 30.881
+
+6he8.pdb SES main surface ? 159:  area = 0.091941
+
+6he8.pdb SES main surface ? 47:  area = 26.969
+
+6he8.pdb SES main surface ? 339:  area = 35.409
+
+6he8.pdb SES main surface ? 245:  area = 73.075
+
+6he8.pdb SES main surface ? 122:  area = 25.537
+
+6he8.pdb SES main surface ? 63:  area = 0.0084886
+
+6he8.pdb SES main surface ? 221:  area = 42.267
+
+6he8.pdb SES main surface ? 137:  area = 27.312
+
+6he8.pdb SES main surface ? 12:  area = 80.533
+
+6he8.pdb SES main surface ? 150:  area = 24.465
+
+6he8.pdb SES main surface ? 282:  area = 23.787
+
+6he8.pdb SES main surface ? 17:  area = 0.046157
+
+6he8.pdb SES main surface ? 200:  area = 26.255
+
+6he8.pdb SES main surface ? 253:  area = 46.028
+
+6he8.pdb SES main surface ? 395:  area = 0.31676
+
+6he8.pdb SES main surface ? 396:  area = 28.925
+
+6he8.pdb SES main surface ? 399:  area = 37.655
+
+6he8.pdb SES main surface ? 401:  area = 24.271
+
+6he8.pdb SES main surface ? 387:  area = 62.289
+
+6he8.pdb SES main surface ? 459:  area = 90.836
+
+6he8.pdb SES main surface ? 363:  area = 0.0016706
+
+6he8.pdb SES main surface ? 206:  area = 27.556
+
+6he8.pdb SES main surface ? 209:  area = 56.532
+
+6he8.pdb SES ligand surface ? 3:  area = 362.06
+
+6he8.pdb SES ligand surface ? 10:  area = 300.97
+
+6he8.pdb SES ligand surface ? 8:  area = 358.52
+
+6he8.pdb SES ligand surface ? 4:  area = 357.16
+
+6he8.pdb SES ligand surface ? 9:  area = 354.59
+

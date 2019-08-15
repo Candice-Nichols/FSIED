@@ -1,0 +1,21 @@
+Processing emd_3488.map
+reading emd_3488.map 3.8 Mb 0%
+Done reading emd_3488.map
+emd_3488.map opened
+Traceback (most recent call last):
+  File "/usr/local/Chimera64-1.13.1rc/share/chimeraInit.py", line 761, in init
+    midas_text.doRunScript("runscript", script)
+  File "/usr/local/Chimera64-1.13.1rc/share/Midas/midas_text.py", line 2251, in doRunScript
+    execfile(scriptPath, scriptGlobals)
+  File "chimera_convert.py", line 15, in <module>
+    runCommand('write displayed 3488.mrc')
+  File "/usr/local/Chimera64-1.13.1rc/share/chimera/__init__.py", line 2776, in runCommand
+    makeCommand(*args, **kw)
+  File "/usr/local/Chimera64-1.13.1rc/share/Midas/midas_text.py", line 69, in makeCommand
+    f(c, args)
+  File "/usr/local/Chimera64-1.13.1rc/share/Midas/midas_text.py", line 2934, in doWrite
+    writeModel = getModelId(argWords[0])
+  File "/usr/local/Chimera64-1.13.1rc/share/Midas/midas_text.py", line 2976, in getModelId
+    raise MidasError, "\"%s\" is not a model number" % s
+MidasError: "3488.mrc" is not a model number
+
