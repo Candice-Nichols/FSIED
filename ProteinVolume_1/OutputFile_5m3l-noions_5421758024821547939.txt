@@ -1,0 +1,10 @@
+PV Version: 1.3
+Date: 2019-05-06 11:24:20 AM
+Protein: /Users/candicechen/Desktop/ProteinVolume_1/5m3l-noions.pdb
+Volume probe radius: 0.080A -> 0.020A
+Surface probe minimum distance: 0.1A
+Reading hydrogens is turned on, but couldn't find any hydrogens in 5m3l-noions!
+Number of atoms and residues: 18491, 229
+
+Protein               Total Volume (A3)      Void Volume       VDW Volume  Packing Density  Time Taken (ms)
+5m3l-noions                  292190.311        92563.546       199626.765            0.683  8282576

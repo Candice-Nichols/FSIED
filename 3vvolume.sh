@@ -1,16 +1,21 @@
 #!/bin/bash
+
 input="$1"
-noions="tmp-noions.pdb"
 xyzrfile="vossvolvox/xyzr/pdb_to_xyzr"
-xyzr="tmp.xyzr"
 v="vossvolvox/bin"
+output="3vvolumelog.txt"
+xyzr="tmp.xyzr"
+noions="tmp-noions.pdb"
 
-egrep "^ATOM " $1 > $noions
-
-
+#remove hetero atom
+egrep "^ATOM " $input > $noions
+#create xyzr file
 $xyzrfile $noions > $xyzr
 
-$v -i $xyzr -p 1.5 -g 0.5
+#write output
+echo "$input" >> $output
+$v -i $xyzr -p 1.5 -g 0.5 >> $output
 
-rm $noions
+#remove temperary files
 rm $xyzr
+rm $noions
