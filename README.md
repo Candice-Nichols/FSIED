@@ -64,3 +64,10 @@ cd ProteinVolume_1
 java -jar ProteinVolume_1.3.jar pdbfile.pdb -het
 ```
 
+### Fetch EM maps and convert them to .mrc
+input emdb id into testInput.txt
+```
+python fetchmaps.py
+chimera --nogui --script chimera_convert.py 
+```
+
