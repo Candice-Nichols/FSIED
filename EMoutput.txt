@@ -1,0 +1,6 @@
+0502.mrc
+EMAN 1.9 ($Date: 2009/02/18 05:12:22 $).
+Run '/programs/x86_64-linux/eman/1.9/bin/volume help' for detailed help.
+Min=-0.012836 Max=0.039408 Mean=0.000251 Sigma=0.002668  Threshold=0.002919
+
+381253/9261000  225970.156250 A^3  ~183.04 kilodaltons (@1.35 g/ml)

@@ -5,7 +5,7 @@ from chimera import replyobj # emits status message
 from chimera.tkgui import saveReplyLog
 
 
-input=open("testInput.txt","r")
+input=open("testInput2.txt","r")
 for line in input:
 	line=line.strip()
 	fn='emd_'+line+'.map'
