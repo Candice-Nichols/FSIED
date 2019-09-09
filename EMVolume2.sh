@@ -9,7 +9,7 @@ vol10="/home/cc59863/varyingVolumes/FSIED/EM10.mrc"
 
 
 #create lower resolution em map using lowpass filter
-relion_image_handler --i $1 --o $vol10 --lowpass 10 >> temp.txt
+relion_image_handler --i $1 --o $vol10 --lowpass 10
 
 #compute and record the EM volume for each em maps
 echo "$input" >> /home/cc59863/varyingVolumes/FSIED/EMoutput.txt
